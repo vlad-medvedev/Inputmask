@@ -41,6 +41,7 @@ div.im-colormask > input, div.im-colormask > input:-webkit-autofill {
     left: 0; /*calculated*/
 }
 
+
 div.im-colormask > input:focus {
     outline: none;
 }
